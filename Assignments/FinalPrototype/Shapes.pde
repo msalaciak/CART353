@@ -109,7 +109,7 @@ public ArrayList<Shapes> getArrayList(int i){
    Shapes  s1 = new Shapes(random(40,90),random(50,width-100),random(50,height-100),randomColor,randomStep);  
     
    boolean overlap = false;
-   //s1.setFile(file);
+   
    
      for (int j = 0; j< shapes.size(); j++) { 
        
