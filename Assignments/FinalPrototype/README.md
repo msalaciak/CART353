@@ -1,4 +1,4 @@
-Visual Music Player – Final Prototype
+Visual Music Player – Final Prototype - Artist's Statement
 By Matthew Salaciak 29644490
 For Rilla Khaled – CART 353
 
