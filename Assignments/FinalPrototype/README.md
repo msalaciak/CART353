@@ -1,3 +1,7 @@
+**
+to run this code, minim and controlP5 libraries must be installed. enjoy :)
+**
+
 Visual Music Player – Final Prototype - Artist's Statement
 By Matthew Salaciak 29644490
 For Rilla Khaled – CART 353
